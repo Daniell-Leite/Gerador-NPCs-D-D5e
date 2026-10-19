@@ -1,2 +1,2 @@
 # Gerador-NPCs-D&D5e
-Fazer um gerador de NPC's para jogos de rpg no sistema de D&D5e
+Um programa para gerar tabelas aleatórias de NPCs, definindo atributos úteis para o sistema (inicialmente D&D 5e, com planos de deixá-lo mais customizável depois), incluindo voz, aparência, raça, maneirismos (comportamentos únicos), segredos e motivação. Possivelmente farei em C ou Python — acredito que Python seja mais fácil e vou testar depois. Futuramente, quero expandir para a web, tornando-o ainda mais customizável para definir quais parâmetros serão gerados e quais serão as opções dentro de cada um, além de exportar a ficha pronta para o sistema escolhido.
