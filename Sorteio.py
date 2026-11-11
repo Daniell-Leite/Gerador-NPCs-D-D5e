@@ -5,3 +5,4 @@ import random
 numero_sorteado = random.randint(1, 20)
 
 print(f'O número sorteado foi: {numero_sorteado}')
+
